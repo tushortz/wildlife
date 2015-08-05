@@ -1,10 +1,10 @@
 
 
-#Wildlife Sublime Theme
-![Wildlife Sublime Theme](./preview/markdown.png)
+#Wildlife Sublime Color Scheme
+![Wildlife Sublime colour scheme](./preview/markdown.png)
 
 ## About
-Wildlife theme uses colourful Syntax highlighting for Sublime text 2 and 3 for languages ranging from:
+Wildlife uses colourful Syntax highlighting for Sublime text 2 and 3 for languages ranging from:
 
 * Python
 * Ruby
@@ -14,12 +14,12 @@ Wildlife theme uses colourful Syntax highlighting for Sublime text 2 and 3 for l
 * JSON
 * Other languages included
 
-with inspiration from the Idle built-in theme and the Mac Classic.
+with inspiration from the Idle built-in color scheme and the Mac Classic.
 
 ## Installation
 s
 Open `Tools -> Command Palette...`. Search for `Package Control: Install Package` and click enter. Wait for
-the available packages to show up and then search for `Wildlife Color theme`. Click enter and the theme should
+the available packages to show up and then search for `Wildlife`. Click enter and the color scheme should
 be installed.
 
 ### Using Git
@@ -28,7 +28,7 @@ Locate your Sublime Text 2 `Packages` directory by using the menu item `Preferen
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/tushortz/wildlife-theme.git
+    git clone https://github.com/tushortz/wildlife.git
 
 ### Download Manually
 
@@ -36,7 +36,7 @@ While inside the `Packages` directory, clone the theme repository using the comm
 * Unzip the files
 * Copy the folder to your Sublime Text 2 `Packages` directory
 
-## Activating the color theme
+## Activating the color Scheme
 
 `Preferences -> Color Scheme -> Wildlife`.
 
@@ -71,7 +71,7 @@ This is free software. It is licensed under the MIT License. Feel free to use th
 I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible. Secondly, to <a href="https://github.com/MattDMo">Matt Morrison </a> for inspiration from his code for nested JSON objects *(i guess)* syntax highlighting.
 
 ## Other Screenshot
-![Wildlife Sublime Theme](./preview/ruby.png)
+![Wildlife Sublime colour scheme](./preview/ruby.png)
 
 To view others, click on the preview folder and you will see some(not all) other screenshots
 
