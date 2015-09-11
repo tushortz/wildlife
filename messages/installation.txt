@@ -1,0 +1,68 @@
+
+Installation
+============
+
+Install Package control for sublime text at `https://packagecontrol.io`
+
+Open `Tools -> Command Palette...`. Search for `Package Control: `Install Package` and click enter. Wait for
+the available packages to show up and then search for `Wildlife`. Click enter and the color scheme should
+be installed. 
+
+Optionally, Click on Preferences --> Package control --> Install package --> Search for `Wildlife` and click to install it.
+
+
+Using Git
+==========
+
+Locate your Sublime Text 2 `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
+
+While inside the `Packages` directory, clone the theme repository using the command below:
+
+    `git clone https://github.com/tushortz/wildlife.git`
+
+
+Download Manually
+==================
+
+* Download the files using the GitHub .zip download option
+* Unzip the files
+* Copy the folder to your Sublime Text 2 `Packages` directory
+
+
+For windows
+------------
+
+for Sublime text 2
+^^^^^^^^^^^^^^^^^^^
+
+copy the `Wildlife folder` and paste the file into the location of your default color scheme. It should be found by opening sublime text then clicking `preferences --> Color Scheme - Default --> Wildlife`
+
+For Sublime text 3
+^^^^^^^^^^^^^^^^^^^
+
+copy the `Wildlife folder` and paste the file into the following location.
+
+	`C:\Users\ **User name**\AppData\Local\Sublime Text 3\Cache\Color Scheme - Default`
+
+>>> Note: You will need to *show hidden files* first.
+
+
+Activating
+===========
+
+Color Scheme
+-------------
+From the menubar, click `preferences --> Color Scheme - Default --> Wildlife` and choose any of Wildlife two options(Day or Night).
+
+
+Git gutter
+-----------
+No action needed
+
+
+Sublime linter
+---------------
+
+Download `Sublime linter` from Package control at https://packagecontrol.io
+
+From the menu bar, click `Tools --> SublimeLinter --> Choose gutter theme --> Wildlife `. It has four options (Animals, Fruits, Insects and Planetary bodies) so feel free to use them.
