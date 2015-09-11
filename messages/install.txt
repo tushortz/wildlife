@@ -1,0 +1,12 @@
+____    __    ____  __   __       _______   __       __   _______  _______ 
+\   \  /  \  /   / |  | |  |     |       \ |  |     |  | |   ____||   ____|
+ \   \/    \/   /  |  | |  |     |  .--.  ||  |     |  | |  |__   |  |__   
+  \            /   |  | |  |     |  |  |  ||  |     |  | |   __|  |   __|  
+   \    /\    /    |  | |  `----.|  '--'  ||  `----.|  | |  |     |  |____ 
+    \__/  \__/     |__| |_______||_______/ |_______||__| |__|     |_______|
+
+=============================================================================
+
+This is a vibrant color scheme with git-gutter and gutter linter support. It supports over 75 languages (See supported languages in the `Supported Languages.txt`) or at `https://github.com/tushortz/scopes`. It has two theme options **(Day and Night)** to choose from. and four gutter themes **(Animal, Fruits, Insects and Planetary bodies)** to choose from.
+
+
