@@ -57,7 +57,7 @@ I'd first like to say a very big thank you to God my creator. Without him, this 
 Created using Python's <a href="https://pypi.python.org/pypi/Sublimescheme">Sublime scheme</a>, a version of Ruby's <a href="https://rubygems.org/gems/sublimetheme">Sublime theme</a>. 
 
 ## Other Screenshot
-![Ruby on rails preview](./preview/ruby.png)
+![Ruby on rails preview](./preview/rubyrails.png)
 
 <br/>
 
