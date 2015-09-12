@@ -18,7 +18,7 @@ It has two options **(Day and Night)** to choose from.
 
 #### Sublime linter support
 
-It has four options to choose from namely:
+It has five options to choose from.
 
 See <a href="https://github.com/tushortz/Wildlife-gutter-theme"> Wildlife Gutter theme for screenshots.</a>
 
