@@ -968,7 +968,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#999A99</string>
+				<string>#101</string>
 				<key>foreground</key>
 				<string>#800000</string>
 			</dict>
