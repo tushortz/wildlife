@@ -1669,6 +1669,20 @@
 
 		<dict>
 			<key>name</key>
+			<string>Python: Language Variable </string>
+			<key>scope</key>
+			<string>variable.language.python</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#61210B</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
 			<string>Rd Documentation: </string>
 			<key>scope</key>
 			<string>punctuation.section.group.tex</string>
